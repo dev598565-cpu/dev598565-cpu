@@ -10,7 +10,6 @@ MNMJEC'28
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dev598565@gmail.com](mailto:dev598565@gmail.com)
-* 🧠  I'm currently learning Pre-final year student on Information technology
 * 👥  I'm looking to collaborate on AI tech related projects and also with automation workflows
 * 💬  Ask me about Urge to get in touch with all these kinds of emerging trends like MCPs, RAG, LLM fine-tuning, etc. Yes these are all the core factors in the current IT trends but for building the greatest infrastructure, compounding the foundation with strong fundamentals is considered to be having a well-based infrastructure which is long-lasting, right? For that yes, parallel focus on the emerging trends as well as Python programming would be my first objective
 
